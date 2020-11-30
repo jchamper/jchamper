@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Champer Lab
 
-You can use the [editor on GitHub](https://github.com/jchamper/jchamper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Jackson Champer is currently a postdoctoral fellow ​at Cornell University in the the Department of Molecular Biology and Genetics and the Department of Computational Biology in the labs of Philipp Messer and Andrew Clark. He will be starting a new lab at the School of Life Sciences at Peking University and the Tsinghua-Peking Center for Life Sciences in early 2021.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gene drive alleles have the potential to rapidly spread through a population. They can modify the population with a desired trait or even directly suppress the population. The most promising application for gene drives is combating vector-borne diseases, such as malaria and dengue. "Payloads" that could be carried by gene drives to prevent transmission of these diseases already exist. Gene drives could also be used for conservation by removing invasive species or modifying endangered species to protect them. However, substantial challenges must be overcome to develop effective drives.
+ 
+A primary obstacle to successful gene drive is the formation of resistance alleles by the drive itself. There are many possible ways to reduce formation of resistance alleles. Another challenge for gene drives is to modify only a specific target population, rather than spreading uncontrollably. This could be necessary for a variety of reasons such as sociopolitical considerations or the need to suppress an invasive species only outside its native range. To address these issues, the Champer lab tests gene drive concepts and designs in the model organism, Drosophila melanogaster. There is also research toward generating “release candidates” in the mosquitoes Anopheles gambiae and Aedes aegypti.
+ 
+A portion of the Champer lab’s research involves computational modeling of gene drives to determine how well they may actually perform in natural populations. Suppression drive and confined drive systems have particularly interesting properties in spatially continuous environments. Modeling is also used to assess drive variants and performance models prior to conducting experiments, which are then used to further refine quantitative mechanistic models.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jchamper/jchamper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+email: jc3248@cornell.edu
