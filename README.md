@@ -1,2 +1,2 @@
 ### Readme file
-Champer Lab
+These GitHub repositories have additional files associated with Champer Lab publications.
